@@ -54,8 +54,8 @@ Para resolver un problema geométrico, los procesos lógicos difieren radicalmen
 4. **Q.E.D. (*Quod erat demonstrandum*):** Se llega a la conclusión sin haber medido ni calculado un solo número.
 
 ### Vía Analítica (Reducción Algebraica)
-1. **Algebrización:** Se sitúa el problema en un plano cartesiano asignando coordenadas $(x, y)$ a los puntos.
-2. **Traducción:** Se transforman las propiedades geométricas en ecuaciones (ej. una circunferencia se convierte en $x^2 + y^2 = r^2$).
+1. **Algebrización:** Se sitúa el problema en un plano cartesiano asignando coordenadas $`(x, y)$` a los puntos.
+2. **Traducción:** Se transforman las propiedades geométricas en ecuaciones (ej. una circunferencia se convierte en $$x^2 + y^2 = r^2$$.
 3. **Operación:** Se resuelve el problema utilizando métodos algebraicos (sistemas de ecuaciones, factorización).
 4. **Interpretación:** El resultado numérico o la ecuación final se traduce de vuelta a su significado geométrico.
 
