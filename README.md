@@ -1,7 +1,7 @@
 # Geometria sintética vs geometría analítica
 ###### Ivanna Michelle Goméz Rodriguez
 ###### Pensamiento Matemático II SABES Echeveste Vespertino
-###### Grupo: 
+###### Grupo: 2B
 # 📐 "Dos Caminos hacia la Verdad Espacial"
 
 <div style="background-color: #f4f6f9; border-left: 6px solid #2c3e50; padding: 15px; margin-bottom: 20px; border-radius: 4px; color: #2c3e50;">
@@ -52,12 +52,15 @@ Para resolver un problema geométrico, los procesos lógicos difieren radicalmen
 2. **Construcción:** Se trazan líneas o arcos auxiliares usando regla y compás.
 3. **Aplicación de Teoremas:** Se encadenan silogismos lógicos (ej. *Si los lados son iguales, por el Teorema LAL, los triángulos son congruentes*).
 4. **Q.E.D. (*Quod erat demonstrandum*):** Se llega a la conclusión sin haber medido ni calculado un solo número.
+<img width="480" height="360" alt="geom_sintetica" src="https://github.com/user-attachments/assets/ab745ccf-45b9-426b-9d6f-6cc45522164c" />
+
 
 ### Vía Analítica (Reducción Algebraica)
 1. **Algebrización:** Se sitúa el problema en un plano cartesiano asignando coordenadas $`(x, y)$` a los puntos.
 2. **Traducción:** Se transforman las propiedades geométricas en ecuaciones (ej. una circunferencia se convierte en $$x^2 + y^2 = r^2$$.
 3. **Operación:** Se resuelve el problema utilizando métodos algebraicos (sistemas de ecuaciones, factorización).
 4. **Interpretación:** El resultado numérico o la ecuación final se traduce de vuelta a su significado geométrico.
+<img width="686" height="386" alt="geom_analitica2" src="https://github.com/user-attachments/assets/f0d93391-cff4-428c-9807-9120dc2ccb41" />
 
 ---
 
