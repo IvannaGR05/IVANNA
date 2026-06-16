@@ -1,6 +1,8 @@
-# IVANNA
-Repositorio para página de Ivanna
-# 📐 Geometría Sintética vs. Analítica: Dos Caminos hacia la Verdad Espacial
+# Geometria sintética vs geometría analítica
+###### Ivanna Michelle Goméz Rodriguez
+###### Pensamiento Matemático II SABES Echeveste Vespertino
+###### Grupo: 
+# 📐 "Dos Caminos hacia la Verdad Espacial"
 
 <div style="background-color: #f4f6f9; border-left: 6px solid #2c3e50; padding: 15px; margin-bottom: 20px; border-radius: 4px; color: #2c3e50;">
     <strong>Nota del Profesor:</strong> En la lógica matemática, un mismo objeto conceptual puede ser estudiado desde diferentes sistemas axiomáticos y métodos de demostración. Hoy compararemos el enfoque clásico (sintético) con el moderno (analítico).
