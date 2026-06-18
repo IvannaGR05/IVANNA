@@ -30,7 +30,7 @@ A lo largo de la historia, la geometría se ha dividido en dos grandes metodolog
         <tr>
             <td style="padding: 12px; border: 1px solid #ddd; font-weight: bold;">Herramientas</td>
             <td style="padding: 12px; border: 1px solid #ddd;">Regla, compás, deducción lógica pura.</td>
-            <td style="padding: 12px; border: 1px solid #ddd;">Álgebra, sistemas de coordenadas ($R^2, R^3$), funciones.</td>
+            <td style="padding: 12px; border: 1px solid #ddd;">Álgebra, sistemas de coordenadas $$(R^2, R^3)$$, funciones.</td>
         </tr>
         <tr>
             <td style="padding: 12px; border: 1px solid #ddd; font-weight: bold;">Padre Fundador</td>
@@ -55,7 +55,7 @@ Para resolver un problema geométrico, los procesos lógicos difieren radicalmen
 
 
 ### Vía Analítica (Reducción Algebraica)
-1. **Algebrización:** Se sitúa el problema en un plano cartesiano asignando coordenadas $`(x, y)$` a los puntos.
+1. **Algebrización:** Se sitúa el problema en un plano cartesiano asignando coordenadas $$(x, y)$$ a los puntos.
 2. **Traducción:** Se transforman las propiedades geométricas en ecuaciones (ej. una circunferencia se convierte en $$x^2 + y^2 = r^2$$.
 3. **Operación:** Se resuelve el problema utilizando métodos algebraicos (sistemas de ecuaciones, factorización).
 4. **Interpretación:** El resultado numérico o la ecuación final se traduce de vuelta a su significado geométrico.
@@ -65,10 +65,10 @@ Para resolver un problema geométrico, los procesos lógicos difieren radicalmen
 
 ## ✏️ 3. Ejemplo Resuelto: Demostrar el punto medio
 
-**Problema:** Dados dos puntos $A$ y $B$, hallar el punto medio del segmento $AB$.
+**Problema:** Dados dos puntos $$A$$ y $$B$$, hallar el punto medio del segmento $$AB$$.
 
 ### Solución Sintética (Construcción de Euclides)
-1. Con centro en $A$, se traza una circunferencia de radio $AB$.
+1. Con centro en $$A$$, se traza una circunferencia de radio $$AB$$.
 2. Con centro en $B$, se traza otra circunferencia del mismo radio $AB$.
 3. Estas circunferencias se intersectan en dos puntos, $P$ y $Q$.
 4. Se traza la recta $PQ$. La intersección de $PQ$ con $AB$ es el **punto medio $M$**.
