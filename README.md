@@ -30,7 +30,9 @@ A lo largo de la historia, la geometría se ha dividido en dos grandes metodolog
         <tr>
             <td style="padding: 12px; border: 1px solid #ddd; font-weight: bold;">Herramientas</td>
             <td style="padding: 12px; border: 1px solid #ddd;">Regla, compás, deducción lógica pura.</td>
-            <td style="padding: 12px; border: 1px solid #ddd;">Álgebra, sistemas de coordenadas $$(R^2, R^3)$$, funciones.</td>
+            <td style="padding: 12px; border: 1px solid #ddd;">Álgebra, sistemas de coordenadas 
+                ```math
+            A = (x_1, y_1) \quad \text{y} \quad B = (x_2, y_2) $$(R^2, R^3)$$, funciones.</td>
         </tr>
         <tr>
             <td style="padding: 12px; border: 1px solid #ddd; font-weight: bold;">Padre Fundador</td>
