@@ -3,10 +3,8 @@
 ###### Pensamiento Matemático II SABES Echeveste Vespertino
 ###### Grupo: 2B
 # 📐 "Dos Caminos hacia la Verdad Espacial"
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-<div style="background-color: #f4f6f9; border-left: 6px solid #2c3e50; padding: 15px; margin-bottom: 20px; border-radius: 4px; color: #2c3e50;">
-    <strong>Nota del Profesor:</strong> En la lógica matemática, un mismo objeto conceptual puede ser estudiado desde diferentes sistemas axiomáticos y métodos de demostración. Hoy compararemos el enfoque clásico (sintético) con el moderno (analítico).
+
+<strong>Nota del Profesor:</strong> En la lógica matemática, un mismo objeto conceptual puede ser estudiado desde diferentes sistemas axiomáticos y métodos de demostración. Hoy compararemos el enfoque clásico (sintético) con el moderno (analítico).
 </div>
 
 ---
@@ -77,7 +75,7 @@ Para resolver un problema geométrico, los procesos lógicos difieren radicalmen
 *Lógica utilizada:* Propiedades de la simetría y triángulos equiláteros concurrentes.
 
 ### Solución Analítica (Fórmula Cartesiana)
-1. Asignamos coordenadas: $A = (x_1, y_1)$ y $B = (x_2, y_2)$.
+1. Asignamos coordenadas: $$A = (x_1, y_1)$$y$$B = (x_2, y_2)$$
 2. Aplicando el promedio aritmético de las posiciones de los componentes, deducimos que la coordenada del punto medio $M$ es de forma directa:
 $$M = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right)$$
 3. Si $A=(2,3)$ y $B=(4,7)$, entonces $M = (\frac{2+4}{2}, \frac{3+7}{2}) = (3, 5)$. No se requirió dibujar nada.
