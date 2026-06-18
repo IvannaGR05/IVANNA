@@ -107,6 +107,10 @@ $$M = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right)$$
 
 ---
 
+Nuestros puntos son ![Fórmula de puntos](https://latex.codecogs.com/svg.image?A=(x_1,y_1)\text{&space;y&space;}B=(x_2,y_2)) en el plano.
+
+
+    
 ## 📚 6. Fuentes y Referencias
 
 * **Euclides** (c. 300 a.C.). *Elementos*. (Base de la geometría sintética).
