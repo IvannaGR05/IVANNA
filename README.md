@@ -5,7 +5,7 @@
 # 📐 "Dos Caminos hacia la Verdad Espacial"
 
 <strong>Nota del Profesor:</strong> En la lógica matemática, un mismo objeto conceptual puede ser estudiado desde diferentes sistemas axiomáticos y métodos de demostración. Hoy compararemos el enfoque clásico (sintético) con el moderno (analítico).
-</div>
+
 
 ---
 
