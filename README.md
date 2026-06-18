@@ -75,10 +75,10 @@ Para resolver un problema geométrico, los procesos lógicos difieren radicalmen
 *Lógica utilizada:* Propiedades de la simetría y triángulos equiláteros concurrentes.
 
 ### Solución Analítica (Fórmula Cartesiana)
-1. Asignamos coordenadas: $$A = (x_1, y_1)$$y$$B = (x_2, y_2)$$
-2. Aplicando el promedio aritmético de las posiciones de los componentes, deducimos que la coordenada del punto medio $M$ es de forma directa:
+1. Asignamos coordenadas: $$A = (x_1, y_1)$$ y $$B = (x_2, y_2)$$
+2. Aplicando el promedio aritmético de las posiciones de los componentes, deducimos que la coordenada del punto medio $$M$$ es de forma directa:
 $$M = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right)$$
-3. Si $A=(2,3)$ y $B=(4,7)$, entonces $M = (\frac{2+4}{2}, \frac{3+7}{2}) = (3, 5)$. No se requirió dibujar nada.
+3. Si $$A=(2,3)$$ y $$B=(4,7)$$, entonces $$M = (\frac{2+4}{2}, \frac{3+7}{2}) = (3, 5)$$. No se requirió dibujar nada.
 
 ---
 
@@ -95,12 +95,12 @@ $$M = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right)$$
 
 <details>
 <summary style="font-size: 1.1em; font-weight: bold; color: #34495e; cursor: pointer; padding: 10px; background-color: #e1e8ed; border-radius: 5px;">
-    ❓ Pregunta: Si un ingeniero usa la ecuación $y = mx + b$ para diseñar la pendiente de una rampa, ¿qué enfoque está utilizando?
+    ❓ Pregunta: Si un ingeniero usa la ecuación $$y = mx + b$$ para diseñar la pendiente de una rampa, ¿qué enfoque está utilizando?
 </summary>
 <div style="padding: 15px; background-color: #fafafa; border: 1px solid #e1e8ed; margin-top: 5px; border-radius: 5px;">
 
 **Respuesta:** Está utilizando la **Geometría Analítica**. 
-*Explicación:* Al representar una línea recta a través de variables algebraicas ($x, y$) y parámetros numéricos (pendiente $m$ e intersección $b$), se está operando dentro del plano cartesiano, característica fundamental del enfoque analítico.
+*Explicación:* Al representar una línea recta a través de variables algebraicas $$(x, y)$$ y parámetros numéricos (pendiente $$m$$ e intersección $b$), se está operando dentro del plano cartesiano, característica fundamental del enfoque analítico.
 </div>
 </details>
 
