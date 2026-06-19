@@ -76,8 +76,7 @@ Para resolver un problema geométrico, los procesos lógicos difieren radicalmen
 
 ### Solución Analítica (Fórmula Cartesiana)
 1. Asignamos coordenadas: A = (x1, y1) y B = (x2, y2)
-2. Aplicando el promedio aritmético de las posiciones de los componentes, deducimos que la coordenada del punto medio M es de forma directa:
-3. Si:
+2. Aplicando el promedio aritmético de las posiciones de los componentes, deducimos que la coordenada del punto medio M queda resuelta de la siguiente manera:
 <img width="332" height="203" alt="puntos medios" src="https://github.com/user-attachments/assets/46a88b8d-e8f4-40b9-8379-ce2b4cb2fbe3" />
 
 
