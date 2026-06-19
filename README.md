@@ -73,6 +73,7 @@ Para resolver un problema geométrico, los procesos lógicos difieren radicalmen
 3. Estas circunferencias se intersectan en dos puntos, P y Q.
 4. Se traza la recta PQ. La intersección de PQ con AB es el **punto medio M**.
 <img width="480" height="360" alt="Gemini_Generated_Image_iympkpiympkpiymp" src="https://github.com/user-attachments/assets/b5fe2450-6611-4145-b69c-8fa77accce6e" />
+
 *Lógica utilizada:* Propiedades de la simetría y triángulos equiláteros concurrentes.
 
 ### Solución Analítica (Fórmula Cartesiana)
