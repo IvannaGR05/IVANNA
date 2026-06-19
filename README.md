@@ -30,7 +30,7 @@ A lo largo de la historia, la geometría se ha dividido en dos grandes metodolog
             <td style="padding: 12px; border: 1px solid #ddd; font-weight: bold;">Herramientas</td>
             <td style="padding: 12px; border: 1px solid #ddd;">Regla, compás, deducción lógica pura.</td>
             <td style="padding: 12px; border: 1px solid #ddd;">Álgebra, sistemas de coordenadas 
-                $$(R^2, R^3)$$, funciones.</td>
+                (x,y), funciones.</td>
         </tr>
         <tr>
             <td style="padding: 12px; border: 1px solid #ddd; font-weight: bold;">Padre Fundador</td>
@@ -56,7 +56,7 @@ Para resolver un problema geométrico, los procesos lógicos difieren radicalmen
 
 ### Vía Analítica (Reducción Algebraica)
 1. **Algebrización:** Se sitúa el problema en un plano cartesiano asignando coordenadas (x, y) a los puntos.
-2. **Traducción:** Se transforman las propiedades geométricas en ecuaciones (ej. una circunferencia se convierte en $$x^2 + y^2 = r^2$$.
+2. **Traducción:** Se transforman las propiedades geométricas en ecuaciones (ej. una circunferencia se convierte en x^2 + y^2 = r^2.
 3. **Operación:** Se resuelve el problema utilizando métodos algebraicos (sistemas de ecuaciones, factorización).
 4. **Interpretación:** El resultado numérico o la ecuación final se traduce de vuelta a su significado geométrico.
 <img width="686" height="386" alt="geom_analitica2" src="https://github.com/user-attachments/assets/f0d93391-cff4-428c-9807-9120dc2ccb41" />
@@ -65,20 +65,21 @@ Para resolver un problema geométrico, los procesos lógicos difieren radicalmen
 
 ## ✏️ 3. Ejemplo Resuelto: Demostrar el punto medio
 
-**Problema:** Dados dos puntos $$A$$ y $$B$$, hallar el punto medio del segmento $$AB$$.
+**Problema:** Dados dos puntos A y B, hallar el punto medio del segmento AB.
 
 ### Solución Sintética (Construcción de Euclides)
-1. Con centro en $$A$$, se traza una circunferencia de radio $$AB$$.
-2. Con centro en $B$, se traza otra circunferencia del mismo radio $AB$.
-3. Estas circunferencias se intersectan en dos puntos, $P$ y $Q$.
-4. Se traza la recta $PQ$. La intersección de $PQ$ con $AB$ es el **punto medio $M$**.
+1. Con centro en A, se traza una circunferencia de radio AB.
+2. Con centro en B, se traza otra circunferencia del mismo radio AB.
+3. Estas circunferencias se intersectan en dos puntos, P y Q.
+4. Se traza la recta PQ. La intersección de PQ con AB es el **punto medio M**.
 *Lógica utilizada:* Propiedades de la simetría y triángulos equiláteros concurrentes.
 
 ### Solución Analítica (Fórmula Cartesiana)
-1. Asignamos coordenadas: $$A = (x_1, y_1)$$ y $$B = (x_2, y_2)$$
-2. Aplicando el promedio aritmético de las posiciones de los componentes, deducimos que la coordenada del punto medio $$M$$ es de forma directa:
-$$M = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right)$$
-3. Si $$A=(2,3)$$ y $$B=(4,7)$$, entonces $$M = (\frac{2+4}{2}, \frac{3+7}{2}) = (3, 5)$$. No se requirió dibujar nada.
+1. Asignamos coordenadas: A = (x1, y1) y B = (x2, y2)
+2. Aplicando el promedio aritmético de las posiciones de los componentes, deducimos que la coordenada del punto medio M es de forma directa:
+3. Si:
+<img width="332" height="203" alt="puntos medios" src="https://github.com/user-attachments/assets/46a88b8d-e8f4-40b9-8379-ce2b4cb2fbe3" />
+
 
 ---
 
@@ -95,12 +96,12 @@ $$M = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right)$$
 
 <details>
 <summary style="font-size: 1.1em; font-weight: bold; color: #34495e; cursor: pointer; padding: 10px; background-color: #e1e8ed; border-radius: 5px;">
-    ❓ Pregunta: Si un ingeniero usa la ecuación $$y = mx + b$$ para diseñar la pendiente de una rampa, ¿qué enfoque está utilizando?
+    ❓ Pregunta: Si un ingeniero usa la ecuación y = mx + b para diseñar la pendiente de una rampa, ¿qué enfoque está utilizando?
 </summary>
 <div style="padding: 15px; background-color: #fafafa; border: 1px solid #e1e8ed; margin-top: 5px; border-radius: 5px;">
 
 **Respuesta:** Está utilizando la **Geometría Analítica**. 
-*Explicación:* Al representar una línea recta a través de variables algebraicas $$(x, y)$$ y parámetros numéricos (pendiente $$m$$ e intersección $b$), se está operando dentro del plano cartesiano, característica fundamental del enfoque analítico.
+*Explicación:* Al representar una línea recta a través de variables algebraicas (x, y) y parámetros numéricos (pendiente m e intersección b), se está operando dentro del plano cartesiano, característica fundamental del enfoque analítico.
 </div>
 </details>
 
