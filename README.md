@@ -56,7 +56,7 @@ Para resolver un problema geométrico, los procesos lógicos difieren radicalmen
 
 
 ### Vía Analítica (Reducción Algebraica)
-1. **Algebrización:** Se sitúa el problema en un plano cartesiano asignando coordenadas $$(x, y)$$ a los puntos.
+1. **Algebrización:** Se sitúa el problema en un plano cartesiano asignando coordenadas (x, y) a los puntos.
 2. **Traducción:** Se transforman las propiedades geométricas en ecuaciones (ej. una circunferencia se convierte en $$x^2 + y^2 = r^2$$.
 3. **Operación:** Se resuelve el problema utilizando métodos algebraicos (sistemas de ecuaciones, factorización).
 4. **Interpretación:** El resultado numérico o la ecuación final se traduce de vuelta a su significado geométrico.
@@ -107,10 +107,6 @@ $$M = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right)$$
 
 ---
 
-Nuestros puntos son ![Fórmula de puntos](https://latex.codecogs.com/svg.image?A=(x_1,y_1)\text{&space;y&space;}B=(x_2,y_2)) en el plano.
-
-
-    
 ## 📚 6. Fuentes y Referencias
 
 * **Euclides** (c. 300 a.C.). *Elementos*. (Base de la geometría sintética).
