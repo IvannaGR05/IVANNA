@@ -59,7 +59,7 @@ Para resolver un problema geométrico, los procesos lógicos difieren radicalmen
 2. **Traducción:** Se transforman las propiedades geométricas en ecuaciones (ej. una circunferencia se convierte en x^2 + y^2 = r^2.
 3. **Operación:** Se resuelve el problema utilizando métodos algebraicos (sistemas de ecuaciones, factorización).
 4. **Interpretación:** El resultado numérico o la ecuación final se traduce de vuelta a su significado geométrico.
-<img width="686" height="386" alt="geom_analitica2" src="https://github.com/user-attachments/assets/f0d93391-cff4-428c-9807-9120dc2ccb41" />
+<img width="480" height="360" alt="geom_analitica2" src="https://github.com/user-attachments/assets/f0d93391-cff4-428c-9807-9120dc2ccb41" />
 
 ---
 
@@ -72,12 +72,13 @@ Para resolver un problema geométrico, los procesos lógicos difieren radicalmen
 2. Con centro en B, se traza otra circunferencia del mismo radio AB.
 3. Estas circunferencias se intersectan en dos puntos, P y Q.
 4. Se traza la recta PQ. La intersección de PQ con AB es el **punto medio M**.
+<img width="480" height="360" alt="Gemini_Generated_Image_iympkpiympkpiymp" src="https://github.com/user-attachments/assets/b5fe2450-6611-4145-b69c-8fa77accce6e" />
 *Lógica utilizada:* Propiedades de la simetría y triángulos equiláteros concurrentes.
 
 ### Solución Analítica (Fórmula Cartesiana)
 1. Asignamos coordenadas: A = (x1, y1) y B = (x2, y2)
 2. Aplicando el promedio aritmético de las posiciones de los componentes, deducimos que la coordenada del punto medio M queda resuelta de la siguiente manera:
-<img width="332" height="203" alt="puntos medios" src="https://github.com/user-attachments/assets/46a88b8d-e8f4-40b9-8379-ce2b4cb2fbe3" />
+<img width="480" height="360" alt="puntos medios" src="https://github.com/user-attachments/assets/46a88b8d-e8f4-40b9-8379-ce2b4cb2fbe3" />
 
 
 ---
